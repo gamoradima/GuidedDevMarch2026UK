@@ -4,6 +4,7 @@
 		<Items>
 			<Item Name="Caption" Value="Yacht status" />
 			<Item Name="Columns.UsrColor.Caption" Value="Color" />
+			<Item Name="Columns.UsrPhone.Caption" Value="Phone" />
 		</Items>
 	</Group>
 </Resources>

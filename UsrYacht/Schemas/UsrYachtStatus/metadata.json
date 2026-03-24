@@ -71,6 +71,14 @@
   "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb",
   "S2": "dafb71f9-ee9f-4e0b-a4d7-37aa15987155"
 }
++ MetaData.Schema.D2 {
+  "UId": "2ad5f738-8cc0-e1c9-834e-3c04cc4c21ee",
+  "A2": "UsrPhone",
+  "A3": "4448c937-cec4-4d5e-be78-4b74f340bfd7",
+  "A4": "4448c937-cec4-4d5e-be78-4b74f340bfd7",
+  "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb",
+  "S2": "26cba63c-daf1-4f36-b2ea-73c0d675d90c"
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -80,7 +88,8 @@
   "736c30a7-c0ec-4fa9-b034-2552b319b633",
   "9e53fd7c-dde4-4502-a64c-b9e34148108b",
   "3fabd836-6a53-4d8d-9069-6df88d9dae1e",
-  "ea57058c-8d6b-ac90-4481-51842c8c1772"
+  "ea57058c-8d6b-ac90-4481-51842c8c1772",
+  "2ad5f738-8cc0-e1c9-834e-3c04cc4c21ee"
 ]
 = MetaData.Schema.D20.A2 "UsrYachtStatusEvents"
 + MetaData.Schema.D20.FA1 false
