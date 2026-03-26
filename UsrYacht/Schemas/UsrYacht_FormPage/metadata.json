@@ -120,6 +120,34 @@
   "A4": "8831391b-099e-4c52-bc49-2decfd8672c1",
   "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb"
 }
++ MetaData.Schema.B2 {
+  "UId": "eba81524-d100-5fec-b245-2148a74f689a",
+  "A2": "RunAvgProcessMenuItem_clicked_params_notificationText",
+  "A3": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A4": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb"
+}
++ MetaData.Schema.B2 {
+  "UId": "57b479d2-1ee3-54d2-b990-75baf495f598",
+  "A2": "RunAvgProcessMenuItem_caption",
+  "A3": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A4": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb"
+}
++ MetaData.Schema.B2 {
+  "UId": "5930f651-2cb1-6bc5-655b-79ef5a4ef576",
+  "A2": "Button_top58vk_caption",
+  "A3": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A4": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb"
+}
++ MetaData.Schema.B2 {
+  "UId": "9ae5f41b-1868-a41d-8201-ed8aa1dfe38a",
+  "A2": "RunMaxPriceWebServiceMenuItem_caption",
+  "A3": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A4": "8831391b-099e-4c52-bc49-2decfd8672c1",
+  "A5": "a8bd99c9-d0d9-4756-a916-3ab9a7c352bb"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "8831391b-099e-4c52-bc49-2decfd8672c1"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "8831391b-099e-4c52-bc49-2decfd8672c1"
 = MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "8831391b-099e-4c52-bc49-2decfd8672c1"
@@ -151,6 +179,10 @@
   "a095180e-bf3c-b368-e02a-742a05447ba0",
   "98f98fe8-8061-f904-a6b4-e7d6a4a66ceb",
   "8f01d78e-69e0-b38b-6c15-8c4b4872b508",
+  "eba81524-d100-5fec-b245-2148a74f689a",
+  "57b479d2-1ee3-54d2-b990-75baf495f598",
+  "5930f651-2cb1-6bc5-655b-79ef5a4ef576",
+  "9ae5f41b-1868-a41d-8201-ed8aa1dfe38a",
   "fd9e5bd2-19ad-68b5-1356-fe7b39d36f28",
   "a77180d7-a9d0-5c7d-a47b-74c0545a1774",
   "a53e6c9a-741a-21de-9293-9d87d6014595",
